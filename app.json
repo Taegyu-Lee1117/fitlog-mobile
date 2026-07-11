@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FitLog",
+    "slug": "fitlog-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.example.fitlog" },
+    "ios": { "bundleIdentifier": "com.example.fitlog" }
+  }
+}

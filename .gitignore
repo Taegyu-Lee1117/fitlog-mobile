@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+.expo-home/
+.expo/
+dist/
+*.log
+.DS_Store
